@@ -2,7 +2,7 @@
 
 > A structured visual and technical assessment of two frontend reproductions against a reference healthcare appointment interface.
 
-[View the live case study]([PASTE LIVE LOVABLE URL]) · [View source code]([PASTE REPOSITORY URL])
+[View the live case study]([https://portfolio-builder-alimbidmus57.replit.app/]) · [View source code]([PASTE REPOSITORY URL])
 
 ![Web Fidelity Evaluation Case Study overview](assets/case-study-overview.png)
 
