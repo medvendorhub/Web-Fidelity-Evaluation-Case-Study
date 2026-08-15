@@ -117,6 +117,8 @@ This is a self-directed portfolio case study. The interfaces, candidate reproduc
 
 ## Author
 
+## Author
+
 **Alim Bidmus**  
 Frontend Engineer | Frontend Quality Evaluation  
-[LinkedIn]([[PASTE LINKEDIN URL](https://www.linkedin.com/in/alim-bidmus-52aa0b73/)])
+[LinkedIn](https://www.linkedin.com/in/alim-bidmus-52aa0b73/)
