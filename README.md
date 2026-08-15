@@ -2,7 +2,7 @@
 
 > A structured visual and technical assessment of two frontend reproductions against a reference healthcare appointment interface.
 
-[View the live case study]([https://portfolio-builder-alimbidmus57.replit.app/]) · [View source code]([(https://github.com/medvendorhub/Web-Fidelity-Evaluation-Case-Study)])
+[View the live case study](https://portfolio-builder-alimbidmus57.replit.app/) · [View source code](https://github.com/medvendorhub/Web-Fidelity-Evaluation-Case-Study)
 
 ![Web Fidelity Evaluation Case Study overview](assets/case-study-overview.png)
 
